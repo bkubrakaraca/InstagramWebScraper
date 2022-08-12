@@ -8,7 +8,7 @@ Installations required to run the program.
 
 ## .Net6.0
 
-- You can download Net6.0 by the link:
+- You can download .Net6.0 by the link:
   [dotnet.microsoft.com/en-us/download/dotnet/6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 - Install .Net Runtime and .Net SDK.
